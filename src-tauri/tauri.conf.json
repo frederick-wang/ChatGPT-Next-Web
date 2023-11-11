@@ -9,7 +9,7 @@
   },
   "package": {
     "productName": "精宏 AI 助理",
-    "version": "2.9.9"
+    "version": "2.9.11"
   },
   "tauri": {
     "allowlist": {
